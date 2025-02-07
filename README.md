@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning c++
 - 📫 How to reach me mggskmail@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I live on earth.
+- ⚡ Fun fact: None
